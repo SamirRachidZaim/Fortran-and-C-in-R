@@ -5,10 +5,10 @@ invoking directly C/Fortran functions and subroutines.  I will be
 using the following tutorials to build these suite of tutorials and
 examples. 
 
-## Tutorial Websites
+# Tutorial Websites
 
-# U. Minnesota Statistics 
+## U. Minnesota Statistics 
 http://users.stat.umn.edu/~geyer/rc/
 
-# Efficient R Programming book
+## Efficient R Programming book
 https://csgillespie.github.io/efficientR/
